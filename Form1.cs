@@ -207,12 +207,9 @@ namespace kape
 
         private void numUd_ValueChanged(object sender, EventArgs e)
         {
+        
         }
-
-        private void btn2_Click(object sender, EventArgs e)
-        {
-           
-        }
+ 
     }
 
 }
